@@ -3,7 +3,8 @@ A simple SVM machine learning classifier to answer the most urgent of questions:
 
 This framework builds a classifer for any type of coding sequence, with any two genbank assmeblies of your choosing. 
 
-Instructions for use: clone this repo, then create a folder named 'genbank' to contain genbank files from NCBI. You can choose any two assemblies, but they must contain the 'CDS' (coding sequence) annotation for you to be able to pull gene sequences out of the genome.
+##Instructions
+Clone this repo, then create a folder named 'genbank' to contain genbank files from NCBI. You can choose any two assemblies, but they must contain the 'CDS' (coding sequence) annotation for you to be able to pull gene sequences out of the genome.
 
 The python scripts explained, in order:
 ## get-proteins.py
